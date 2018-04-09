@@ -3,7 +3,7 @@ https://github.com/VundleVim/Vundle.vim
 
 ####  TESTING #######
 https://github.com/koalaman/shellcheck
-
+https://github.com/jeffkaufman/icdiff
 
 #### WAIT TO TEST#######
 https://github.com/w0rp/ale
